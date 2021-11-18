@@ -1,0 +1,850 @@
+{
+  "book_dataset": [
+
+
+
+    {
+      "book_name": "Ncert",
+      "book_image_src": "assets/ncert/ncert.png",
+      "subject_dataset": [
+        {
+          "subject_name": "Mathematics",
+          "subject_image_src": "assets/ncert/subject/mathematics.png",
+           "book_solution_dataset":[
+             {
+              "book_solution_name":"Mathematics Book",
+              "book_solution_image_src": "assets/ncert/book/book.png",
+              "topic_dataset": [
+                {
+                  "topic_name": "Prelims",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Number System",
+                  "subtopic_dataset": [
+                
+                  ]
+                },
+                {
+                  "topic_name": "Polynomials",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Coordinate Geometry",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Linear Equations in Two Variables",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Introduction to Euclid’s Geometry",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "Lines and Angles",
+                  "subtopic_dataset": [
+  
+                  ]
+                },
+                {
+                  "topic_name": "Triangles",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "Quadrilaterals",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Areas of Parallelograms and Triangles",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Circles",
+                  "subtopic_dataset": [
+  
+                  ]
+                },
+                {
+                  "topic_name": "Constructions",
+                  "subtopic_dataset": [
+                
+                  ]
+                },
+                {
+                  "topic_name": "Heron’s Formula",
+                  "subtopic_dataset": [
+                
+                  ]
+                },
+                {
+                  "topic_name": "Surface Areas and Volumes",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Statistics",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Probability",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Appendix I",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Appendix II",
+                  "subtopic_dataset": [
+              
+                  ]
+                },
+                {
+                  "topic_name": "Answer",
+                  "subtopic_dataset": [
+                    
+                  ]
+                }
+               
+              ]
+             },
+             {
+              "book_solution_name":"Mathematics Solution",
+              "book_solution_image_src": "assets/ncert/solution/solution.png",
+              "topic_dataset": [
+               
+                {
+                  "topic_name": "Number System",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "Polynomials",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "Coordinate Geometry",
+                  "subtopic_dataset": [
+                     ]
+                },
+                {
+                  "topic_name": "Linear Equations in Two Variables",
+                  "subtopic_dataset": [
+                   ]
+                },
+                {
+                  "topic_name": "Introduction to Euclid’s Geometry",
+                  "subtopic_dataset": [
+                   ]
+                },
+                {
+                  "topic_name": "Lines and Angles",
+                  "subtopic_dataset": [
+                  ]
+                },
+                {
+                  "topic_name": "Triangles",
+                  "subtopic_dataset": [
+                     
+                  ]
+                },
+                {
+                  "topic_name": "Quadrilaterals",
+                  "subtopic_dataset": [
+                    ]
+                },
+                {
+                  "topic_name": "Areas of Parallelograms and Triangles",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Circles",
+                  "subtopic_dataset": [
+                    ]
+                },
+                {
+                  "topic_name": "Constructions",
+                  "subtopic_dataset": [
+                   ]
+                },
+                {
+                  "topic_name": "Heron’s Formula",
+                  "subtopic_dataset": [
+                 ]
+                },
+                {
+                  "topic_name": "Surface Areas and Volumes",
+                  "subtopic_dataset": [
+                   ]
+                },
+                {
+                  "topic_name": "Statistics",
+                  "subtopic_dataset": [
+                   ]
+                },
+                {
+                  "topic_name": "Probability",
+                  "subtopic_dataset": [
+                   ]
+                }
+                
+               
+              ]
+             }
+
+           ]
+        }, 
+        {
+          "subject_name": "Science",
+          "subject_image_src": "assets/ncert/subject/science.png",
+          "book_solution_dataset":[
+            {
+              "book_solution_name":"Science Book",
+              "book_solution_image_src": "assets/ncert/book/book.png",
+              "topic_dataset": [
+                {
+                  "topic_name": "Prelims",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Matter In Our Surroundings",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Is Matter Around Us Pure",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+              
+                {
+                  "topic_name": "Atoms And Molecules",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "Structure Of The Atom",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "The Fundamental Unit Of Life",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "TISSUES",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "DIVERSITY IN LIVING ORGANISMS",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "MOTION",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },{
+                  "topic_name": "FORCE AND LAWS OF MOTION",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "GRAVITATION",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "WORK AND ENERGY",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "SOUND",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "WHY DO WE FALL ILL",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "NATURAL RESOURCES",
+                  "subtopic_dataset": [
+                   
+                  ]
+                } ,
+                {
+                  "topic_name": "IMPROVEMENT IN FOOD RESOURCES",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Answer",
+                  "subtopic_dataset": [
+                  
+                  ]
+                }
+              ]
+            }
+           
+          ]
+
+        
+        }
+        
+
+        
+       
+      ]
+    },
+
+    {
+      "book_name": "Exampler",
+      "book_image_src": "assets/exampler/exampler.png",
+      "subject_dataset": [
+        {
+          "subject_name": "Mathematics",
+          "subject_image_src": "assets/exampler/subject/mathematics.png",
+           "book_solution_dataset":[
+             {
+              "book_solution_name":"Mathematics Book",
+              "book_solution_image_src": "assets/exampler/book/book.png",
+              "topic_dataset": [
+             
+                {
+                  "topic_name": "Number System",
+                  "subtopic_dataset": [
+                
+                  ]
+                },
+                {
+                  "topic_name": "Polynomials",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Coordinate Geometry",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Linear Equations in Two Variables",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Introduction to Euclid’s Geometry",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Lines and Angles",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Triangles",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Quadrilaterals",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Areas of Parallelograms and Triangles",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "Circles",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "Constructions",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Heron’s Formula",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "Surface Areas and Volumes",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "Statistics and Probability",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Design Of The Question Paper-Set I",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Design Of The Question Paper-Set II",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Answer",
+                  "subtopic_dataset": [
+                   
+                  ]
+                }
+               
+              ]
+             }
+
+           ]
+        }, 
+        {
+          "subject_name": "Science",
+          "subject_image_src": "assets/ncert/subject/science.png",
+          "book_solution_dataset":[
+            {
+              "book_solution_name":"Science Book",
+              "book_solution_image_src": "assets/exampler/book/book.png",
+              "topic_dataset": [
+
+                {
+                  "topic_name": "Matter In Our Surroundings",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Is Matter Around Us Pure",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+               
+                {
+                  "topic_name": "Atoms And Molecules",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "Structure Of The Atom",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "The Fundamental Unit Of Life",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "TISSUES",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "DIVERSITY IN LIVING ORGANISMS",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "MOTION",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },{
+                  "topic_name": "FORCE AND LAWS OF MOTION",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "GRAVITATION",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "WORK AND ENERGY",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "SOUND",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "WHY DO WE FALL ILL",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "NATURAL RESOURCES",
+                  "subtopic_dataset": [
+                   
+                  ]
+                } ,
+                {
+                  "topic_name": "IMPROVEMENT IN FOOD RESOURCES",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Answer",
+                  "subtopic_dataset": [
+                  
+                  ]
+                }
+                
+              ]
+            }
+          
+           
+          ]
+
+        
+        }
+        
+
+        
+       
+      ]
+    },
+    {
+      "book_name": "Exampler",
+      "book_image_src": "assets/exampler/exampler.png",
+      "subject_dataset": [
+        {
+          "subject_name": "Mathematics",
+          "subject_image_src": "assets/exampler/subject/mathematics.png",
+           "book_solution_dataset":[
+             {
+              "book_solution_name":"Mathematics Book",
+              "book_solution_image_src": "assets/exampler/book/book.png",
+              "topic_dataset": [
+             
+                {
+                  "topic_name": "Number System",
+                  "subtopic_dataset": [
+                
+                  ]
+                },
+                {
+                  "topic_name": "Polynomials",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Coordinate Geometry",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Linear Equations in Two Variables",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Introduction to Euclid’s Geometry",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Lines and Angles",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Triangles",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Quadrilaterals",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Areas of Parallelograms and Triangles",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "Circles",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "Constructions",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Heron’s Formula",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "Surface Areas and Volumes",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "Statistics and Probability",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Design Of The Question Paper-Set I",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Design Of The Question Paper-Set II",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Answer",
+                  "subtopic_dataset": [
+                   
+                  ]
+                }
+               
+              ]
+             }
+
+           ]
+        }, 
+        {
+          "subject_name": "Science",
+          "subject_image_src": "assets/ncert/subject/science.png",
+          "book_solution_dataset":[
+            {
+              "book_solution_name":"Science Book",
+              "book_solution_image_src": "assets/exampler/book/book.png",
+              "topic_dataset": [
+
+                {
+                  "topic_name": "Matter In Our Surroundings",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "Is Matter Around Us Pure",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+               
+                {
+                  "topic_name": "Atoms And Molecules",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "Structure Of The Atom",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "The Fundamental Unit Of Life",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "TISSUES",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "DIVERSITY IN LIVING ORGANISMS",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "MOTION",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },{
+                  "topic_name": "FORCE AND LAWS OF MOTION",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "GRAVITATION",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "WORK AND ENERGY",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "SOUND",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "WHY DO WE FALL ILL",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "NATURAL RESOURCES",
+                  "subtopic_dataset": [
+                   
+                  ]
+                } ,
+                {
+                  "topic_name": "IMPROVEMENT IN FOOD RESOURCES",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Answer",
+                  "subtopic_dataset": [
+                  
+                  ]
+                }
+                
+              ]
+            }
+          
+           
+          ]
+
+        
+        }
+        
+
+        
+       
+      ]
+    }
+
+    
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  ]
+}

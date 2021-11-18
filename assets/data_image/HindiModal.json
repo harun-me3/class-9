@@ -1,0 +1,628 @@
+{
+  "book_dataset": [
+
+
+
+    {
+      "book_name": "Ncert की किताबे",
+      "book_image_src": "assets/ncert/ncert.png",
+      "subject_dataset": [
+        {
+          "subject_name": "गणित",
+          "subject_image_src": "assets/ncert/subject/mathematics.png",
+           "book_solution_dataset":[
+             {
+              "book_solution_name":"गणित किताब",
+              "book_solution_image_src": "assets/ncert/book/book.png",
+              "topic_dataset": [
+                {
+                  "topic_name": "विषय–सूची",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "संख्या पद्वति",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "बहुपद ",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "निर्देशांक ज्यामिति",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "दो चरों वाले रैखिक समीकरण ",
+                  "subtopic_dataset": [
+               
+                  ]
+                },
+                {
+                  "topic_name": "यूक्लिड की ज्यामिति का परिचय",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "रेखाएँ और कोण",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "त्रिभुज ",
+                  "subtopic_dataset": [
+                
+                    
+                  ]
+                },
+                {
+                  "topic_name": "चतुर्भुज ",
+                  "subtopic_dataset": [
+                
+                  ]
+                },
+                {
+                  "topic_name": "समांतर चतुर्भुजों और त्रिभुजों के क्षेत्रफल",
+                  "subtopic_dataset": [
+                
+                  ]
+                },
+                {
+                  "topic_name": "वृत्त ",
+                  "subtopic_dataset": [
+              
+                  ]
+                },
+                {
+                  "topic_name": "रचनाएँ ",
+                  "subtopic_dataset": [
+               
+                  ]
+                },
+                {
+                  "topic_name": "हीरोन का सूत्र",
+                  "subtopic_dataset": [
+               
+                  ]
+                },
+                {
+                  "topic_name": "पृष्ठीय क्षेत्रफल और आयतन",
+                  "subtopic_dataset": [
+              
+                  ]
+                },
+                {
+                  "topic_name": "सांख्यिकी",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "प्रायिकता",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "परिशिष्ट 1 – गणित में उपपत्तियाँ ",
+                  "subtopic_dataset": [
+      
+                  ]
+                },
+                {
+                  "topic_name": "परिशिष्ट 2 – गणितीय निदर्शन का परिचय",
+                  "subtopic_dataset": [
+              
+
+                  ]
+                },
+                {
+                  "topic_name": "Answer",
+                  "subtopic_dataset": [
+                 
+                  ]
+                }
+               
+              ]
+             },
+             {
+              "book_solution_name":"गणित हल",
+              "book_solution_image_src": "assets/ncert/solution/solution.png",
+              "topic_dataset": [
+                {
+                  "topic_name": "संख्या पद्वति",
+                  "subtopic_dataset": [
+                   ]
+                },
+                {
+                  "topic_name": "बहुपद ",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "निर्देशांक ज्यामिति",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "दो चरों वाले रैखिक समीकरण ",
+                  "subtopic_dataset": [
+                
+                  
+                  ]
+                },
+                {
+                  "topic_name": "यूक्लिड की ज्यामिति का परिचय",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "रेखाएँ और कोण",
+                  "subtopic_dataset": [
+                   
+                   
+                  ]
+                },
+                {
+                  "topic_name": "त्रिभुज ",
+                  "subtopic_dataset": [
+                
+                    
+                  ]
+                },
+                {
+                  "topic_name": "चतुर्भुज ",
+                  "subtopic_dataset": [
+                  
+                  
+                  ]
+                },
+                {
+                  "topic_name": "समांतर चतुर्भुजों और त्रिभुजों के क्षेत्रफल",
+                  "subtopic_dataset": [
+                  
+             
+                  ]
+                },
+                {
+                  "topic_name": "वृत्त ",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "रचनाएँ ",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "हीरोन का सूत्र",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "पृष्ठीय क्षेत्रफल और आयतन",
+                  "subtopic_dataset": [
+                
+                  ]
+                },
+                {
+                  "topic_name": "सांख्यिकी",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "प्रायिकता",
+                  "subtopic_dataset": [
+               
+                  ]
+                }
+               
+              ]
+             }
+
+           ]
+        }, 
+        {
+          "subject_name": "विज्ञान",
+          "subject_image_src": "assets/ncert/subject/science.png",
+          "book_solution_dataset":[
+            {
+              "book_solution_name":"विज्ञान किताब",
+              "book_solution_image_src": "assets/ncert/book/book.png",
+              "topic_dataset": [
+                {
+                  "topic_name": "विषय–सूची",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "हमारे आस-पास के पदार्थ",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "क्या हमारे आस-पास के पदार्थ शुद्ध हैं",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+
+                {
+                  "topic_name": "परमाणु एवं अणु",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "परमाणु की संरचना",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "जीवन की मौलिक इकाई",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "उत्तक",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "जीवों में विविध्ता",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "गति",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },{
+                  "topic_name": "बल तथा गति के नियम",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "गुरुत्वाकर्षण",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "कार्य तथा ऊर्जा",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "ध्वनि",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "हम बीमार क्यों होते हैं",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": " प्राकृतिक संपदा",
+                  "subtopic_dataset": [
+                   
+                  ]
+                } ,
+                {
+                  "topic_name": "खाद्य संसाधनों में सुधर",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "उत्तरमाला",
+                  "subtopic_dataset": [
+                  
+                  ]
+                }
+              ]
+            }
+           
+          ]
+
+        
+        }
+        
+
+        
+       
+      ]
+    },
+
+ 
+    {
+      "book_name": "Exampler की किताबे",
+      "book_image_src": "assets/exampler/exampler.png",
+      "subject_dataset": [
+        {
+          "subject_name": "गणित",
+          "subject_image_src": "assets/exampler/subject/mathematics.png",
+           "book_solution_dataset":[
+             {
+              "book_solution_name":"गणित किताब",
+              "book_solution_image_src": "assets/exampler/book/book.png",
+              "topic_dataset": [
+                {
+                  "topic_name": "संख्या पद्वति",
+                  "subtopic_dataset": [
+                  
+                    
+                  ]
+                },
+                {
+                  "topic_name": "बहुपद ",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "निर्देशांक ज्यामिति",
+                  "subtopic_dataset": [
+                 
+                 
+                  ]
+                },
+                {
+                  "topic_name": "दो चरों वाले रैखिक समीकरण ",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "यूक्लिड की ज्यामिति का परिचय",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "रेखाएँ और कोण",
+                  "subtopic_dataset": [
+                
+                  ]
+                },
+                {
+                  "topic_name": "त्रिभुज ",
+                  "subtopic_dataset": [
+         
+                  ]
+                },
+                {
+                  "topic_name": "चतुर्भुज ",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "समांतर चतुर्भुजों और त्रिभुजों के क्षेत्रफल",
+                  "subtopic_dataset": [
+                  
+                 
+                  ]
+                },
+                {
+                  "topic_name": "वृत्त ",
+                  "subtopic_dataset": [
+
+                  ]
+                },
+                {
+                  "topic_name": "रचनाएँ ",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "हीरोन का सूत्र",
+                  "subtopic_dataset": [
+  
+                  ]
+                },
+                {
+                  "topic_name": "पृष्ठीय क्षेत्रफल और आयतन",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "सांख्यिकी और प्रायिकता",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "प्रश्न पत्र का डिज़ाइन सेट I",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "प्रश्न पत्र का डिज़ाइन सेट II",
+                  "subtopic_dataset": [
+                      
+
+                  ]
+                },
+                {
+                  "topic_name": "उत्तरमाला",
+                  "subtopic_dataset": [
+                 
+                  ]
+                }
+               
+              ]
+             }
+
+           ]
+        }, 
+        {
+          "subject_name": "विज्ञान",
+          "subject_image_src": "assets/exampler/subject/science.png",
+          "book_solution_dataset":[
+            {
+              "book_solution_name":"विज्ञान किताब",
+              "book_solution_image_src": "assets/exampler/book/book.png",
+              "topic_dataset": [
+           
+                {
+                  "topic_name": "हमारे आस-पास के पदार्थ",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "क्या हमारे आस-पास के पदार्थ शुद्ध हैं",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+
+                {
+                  "topic_name": "परमाणु एवं अणु",
+                  "subtopic_dataset": [
+                    
+                  ]
+                },
+                {
+                  "topic_name": "परमाणु की संरचना",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "जीवन की मौलिक इकाई",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "उत्तक",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "जीवों में विविध्ता",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "गति",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },{
+                  "topic_name": "बल तथा गति के नियम",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "गुरुत्वाकर्षण",
+                  "subtopic_dataset": [
+                  
+                  ]
+                },
+                {
+                  "topic_name": "कार्य तथा ऊर्जा",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "ध्वनि",
+                  "subtopic_dataset": [
+                 
+                  ]
+                },
+                {
+                  "topic_name": "हम बीमार क्यों होते हैं",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": " प्राकृतिक संपदा",
+                  "subtopic_dataset": [
+                   
+                  ]
+                } ,
+                {
+                  "topic_name": "खाद्य संसाधनों में सुधर",
+                  "subtopic_dataset": [
+                   
+                  ]
+                },
+                {
+                  "topic_name": "Answer",
+                  "subtopic_dataset": [
+                  
+                  ]
+                }
+              ]
+            }
+          
+           
+          ]
+
+        
+        }
+        
+
+        
+       
+      ]
+    }
+
+
+    
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  ]
+}

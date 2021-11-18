@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613818729681",
+    "project_id": "class-9th-ncert-all",
+    "storage_bucket": "class-9th-ncert-all.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613818729681:android:64e5111d1db1e4d977b1f0",
+        "android_client_info": {
+          "package_name": "com.trv.ncertclass9th"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613818729681-2pnicvch25l88tlrn81giuhjb1v0o1cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKj4gO-TywdmKKvP2Dy32HNQkIrX_Pc7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613818729681-2pnicvch25l88tlrn81giuhjb1v0o1cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
